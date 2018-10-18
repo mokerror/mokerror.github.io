@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://mokerror.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 11:31:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://mokerror.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://mokerror.github.io/post/first/</link>
+      <pubDate>Thu, 18 Oct 2018 11:31:27 +0800</pubDate>
+      
+      <guid>https://mokerror.github.io/post/first/</guid>
+      <description>这是文章</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mokerror.github.io/about/</link>
+      <pubDate>Thu, 18 Oct 2018 11:31:14 +0800</pubDate>
+      
+      <guid>https://mokerror.github.io/about/</guid>
+      <description>这是About</description>
+    </item>
+    
+  </channel>
+</rss>
